@@ -5,8 +5,13 @@
 body{
     margin: 0;
     padding: 0;
+<<<<<<< HEAD
     background-color: rgb(21, 182, 194);
    
+=======
+    background-color: rgb(184, 73, 73);
+    background-image:url(assets/bg.jpg) ;
+>>>>>>> bf078dba4b9f47f18be392692f0d825516d7e9df
     width: 100vw;
     height: 100vh;
     display: flex;
